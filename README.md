@@ -6,3 +6,4 @@ used as a testbed/training ground for Git usage and merge conflict resolution.
 The git hook copies the files in this repository onto a public folder, which the server uses to create the website.
 The Python server displays the CIS191 webpage, less prettily.
 A bare repository is one without any working branches or directories.
+Hostname ec2-54-201-76-180.us-west-2.compute.amazonaws.com
